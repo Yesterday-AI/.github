@@ -28,7 +28,7 @@ Tooling, scaffolds and skills we publish from our day-to-day agent work.
 |---|---|
 | [**browser-llm-demo**](https://github.com/Yesterday-AI/browser-llm-demo) | Scaffold for browser-local LLM chat apps. Gemma 4 in the browser via MediaPipe + WebGPU. No server, no tokens. Fork it. Own it. Ship it. |
 | [**paperize**](https://github.com/Yesterday-AI/paperize) | CLI that distills unstructured text into qualified goals via AI — Ink TUI + headless mode. |
-| [**paperclip-plugin-company-wizard**](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) | Bootstrap AI-agent companies from modular templates. |
+| [**paperclip-plugin-company-wizard**](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) | [Paperclip](https://paperclip.ing) Plugin: Bootstrap AI-agent companies from modular templates. |
 
 ### Libraries
 
