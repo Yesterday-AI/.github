@@ -1,12 +1,43 @@
-## Welcome to Yesterday 👋
+<div align="center">
+  <img src="icon.svg" width="88" alt="Yesterday" />
 
-<!--
+  <h1>Yesterday</h1>
 
-**Here are some ideas to get you started:**
+  <p><em>Verstehen, entwickeln, implementieren.</em></p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <p>
+    The smart AI brand with a human touch — bringing AI from theory into practice.
+  </p>
+</div>
+
+## Open source
+
+Tooling, scaffolds and skills we publish from our day-to-day agent work.
+
+### Claude Code plugins
+
+| Repo | What it is |
+|---|---|
+| [**ystacks**](https://github.com/Yesterday-AI/ystacks) | Public Claude Code plugin catalog — yastack · yopstack · ydstack. |
+| [**yastack**](https://github.com/Yesterday-AI/yastack) | Yesterday Agent Stack — skills for AI agents in human-AI collaboration workflows. |
+| [**yopstack**](https://github.com/Yesterday-AI/yopstack) | Ops skills for Claude Code agents — provision, deploy, observe. |
+
+### Apps & scaffolds
+
+| Repo | What it is |
+|---|---|
+| [**browser-llm-demo**](https://github.com/Yesterday-AI/browser-llm-demo) | Scaffold for browser-local LLM chat apps. Gemma 4 in the browser via MediaPipe + WebGPU. No server, no tokens. Fork it. Own it. Ship it. |
+| [**paperize**](https://github.com/Yesterday-AI/paperize) | CLI that distills unstructured text into qualified goals via AI — Ink TUI + headless mode. |
+| [**paperclip-plugin-company-wizard**](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) | Bootstrap AI-agent companies from modular templates. |
+
+### Libraries
+
+| Repo | What it is |
+|---|---|
+| [**svelte-i18n-lingui**](https://github.com/Yesterday-AI/svelte-i18n-lingui) | Use Lingui for i18n in Svelte / SvelteKit projects. |
+
+---
+
+<div align="center">
+  <sub>Made by humans &amp; agents at Yesterday.</sub>
+</div>

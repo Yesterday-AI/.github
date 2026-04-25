@@ -1,0 +1,6 @@
+# TMP files
+~*.md
+~*/
+
+# Agent settings
+.claude/settings.local.json
