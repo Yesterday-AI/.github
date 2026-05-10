@@ -14,13 +14,11 @@
 
 Tooling, scaffolds and skills we publish from our day-to-day agent work.
 
-### Claude Code plugins
+### Agent skills + skill bundles / plugins
 
 | Repo | What it is |
 |---|---|
-| [**ystacks**](https://github.com/Yesterday-AI/ystacks) | Public Claude Code plugin catalog — yastack · yopstack · ydstack · ycstack · ytstack. |
-| [**yastack**](https://github.com/Yesterday-AI/yastack) | Yesterday Agent Stack — skills for AI agents in human-AI collaboration workflows. |
-| [**yopstack**](https://github.com/Yesterday-AI/yopstack) | Ops skills for Claude Code agents — provision, deploy, observe. |
+| [**ystacks**](https://github.com/Yesterday-AI/skills) | Public skills plugin catalog |
 | [**ytstack**](https://github.com/Yesterday-AI/ytstack) | Engineering OS for AI coding agents — project-OS artifact discipline + curated skill wrappers + agent-team orchestration. |
 
 ### Apps & scaffolds
