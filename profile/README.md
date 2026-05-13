@@ -18,8 +18,8 @@ Tooling, scaffolds and skills we publish from our day-to-day agent work.
 
 | Repo | What it is |
 |---|---|
-| [**ystacks**](https://github.com/Yesterday-AI/skills) | Public skills plugin catalog |
-| [**ytstack**](https://github.com/Yesterday-AI/ytstack) | Engineering OS for AI coding agents — project-OS artifact discipline + curated skill wrappers + agent-team orchestration. |
+| [**skills**](https://github.com/Yesterday-AI/skills) | Public skills plugin catalog. |
+| [**ytstack**](https://github.com/Yesterday-AI/ytstack) | Opinionated OS for AI coding agents. Plan like a PM, execute like a senior eng. Skills plugin. |
 
 ### Apps & scaffolds
 
